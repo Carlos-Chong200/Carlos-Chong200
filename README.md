@@ -1,1 +1,27 @@
-"# Carlos-Chong200"  
+### 我在读研当牛马
+- 身份：某不知名大学 硕士
+- 日常工作：
+  ✅ 替导师当「课题传声筒」
+  ✅ 为实验室当「永动咖啡机」
+  ✅ 被横向项目折磨，整天骂导师的中二青年
+- 薪资待遇：基本为 0元
+
+### 白天搬砖课题，晚上偷学开源秘籍
+- 💻 技能：前端、后端开发の野生选手（bug 比头发多，但能跑就是胜利）
+- 🤖 隐藏身份：开源世界的扫地僧（代码写得菜，但 star 点得快）
+- 🤔 代码会报错，需求会改，但摸鱼的快乐永远真实😎
+- 🚴 爱好：骑车逃荒（指周末骑单车绕二环思考人生）
+
+###  我对开源感兴趣
+- 要是你觉得我的代码还能抢救一下，或者想和我聊聊摸鱼心得
+- 联系我 cph13000@gmail.com
+
+###  人生目标
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=攒够300万就退休~~❤🎈🎈🎈&author=chong">
+
+<div>
+  <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/Ceron-CSS/Ceron-CSS/refs/heads/main/640.gif" height="350" alt="好想现在退休">
+</div>
+
+![Ceron's github activity graph](https://github.com/Carlos-Chong200/Carlos-Chong200/blob/output/github-contribution-grid-snake.svg)
