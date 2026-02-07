@@ -10,5 +10,3 @@
 ###  我对开源感兴趣
 - 要是你觉得我的代码还能抢救一下，或者想和我聊聊摸鱼心得，联系我 cph13000@gmail.com
 
-###  人生目标
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=攒够300万就退休~~❤🎈🎈🎈&author=chong">
