@@ -10,8 +10,6 @@
 ###  我对开源感兴趣
 - 要是你觉得我的代码还能抢救一下，或者想和我聊聊摸鱼心得，联系我 cph13000@gmail.com
 
-为了适配 GitHub 等平台的展示效果，我优化了英文版本，保留所有幽默风格和核心信息，同时规范使用 Markdown 语法（标题层级、列表、链接、表情符号），直接复制就能用：
-
 # About Me 🚀
 ### I’m a Grad Student Living the “Academic Laborer” Life 🐂🐎
 - **Identity**: Master’s student at an anonymous university
