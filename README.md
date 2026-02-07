@@ -10,3 +10,19 @@
 ###  我对开源感兴趣
 - 要是你觉得我的代码还能抢救一下，或者想和我聊聊摸鱼心得，联系我 cph13000@gmail.com
 
+为了适配 GitHub 等平台的展示效果，我优化了英文版本，保留所有幽默风格和核心信息，同时规范使用 Markdown 语法（标题层级、列表、链接、表情符号），直接复制就能用：
+
+# About Me 🚀
+### I’m a Grad Student Living the “Academic Laborer” Life 🐂🐎
+- **Identity**: Master’s student at an anonymous university
+
+### Daytime: Grinding on Research | Nighttime: Sneakily Learning Open Source Secrets 🕵️
+- 💻 **Skills**: Self-taught full-stack developer (more bugs than hair, but "it runs" = victory)
+- 🤖 **Secret Identity**: The "sweeping monk" of the open-source world (my code is shabby, but I star repos faster than lightning)
+- 🤔 **Motto**: Code crashes, requirements shift, but the joy of slacking off is *always* real 😎
+- 🚴 **Hobby**: "Bike escape for survival" (aka riding around the 2nd Ring Road on weekends to ponder life’s mysteries)
+
+### I’m Obsessed with Open Source! 🤩
+If you think my code is worth rescuing, or want to geek out about slacking strategies — hit me up:  
+📧 [cph13000@gmail.com](mailto:cph13000@gmail.com)
+
