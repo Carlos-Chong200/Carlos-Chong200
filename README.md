@@ -1,15 +1,3 @@
-### 我在读研当牛马
-- 身份：某不知名大学 硕士
-
-### 白天搬砖课题，晚上偷学开源秘籍
-- 💻 技能：前端、后端开发の野生选手（bug 比头发多，但能跑就是胜利）
-- 🤖 隐藏身份：开源世界的扫地僧（代码写得菜，但 star 点得快）
-- 🤔 代码会报错，需求会改，但摸鱼的快乐永远真实😎
-- 🚴 爱好：骑车逃荒（指周末骑单车绕二环思考人生）
-
-###  我对开源感兴趣
-- 要是你觉得我的代码还能抢救一下，或者想和我聊聊摸鱼心得，联系我 cph13000@gmail.com
-
 # About Me 🚀
 ### I’m a Grad Student Living the “Academic Laborer” Life 🐂🐎
 - **Identity**: Master’s student at an anonymous university
